@@ -1,0 +1,8 @@
+{
+	"name": "Game: Citizen Sleeper",
+	"author": "BluesKutya",
+	"version": "1.0.0",
+	"description": "Support for Citizen Sleeper",
+	"type": "game",
+	"bundled": false
+}
