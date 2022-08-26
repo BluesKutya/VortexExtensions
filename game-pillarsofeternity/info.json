@@ -1,0 +1,8 @@
+{
+	"name": "Game: Pillars of Eternity",
+	"author": "BluesKutya",
+	"version": "1.0.0",
+	"description": "Support for Pillars of Eternity",
+	"type": "game",
+	"bundled": false
+}
