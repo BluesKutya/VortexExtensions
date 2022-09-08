@@ -1,0 +1,8 @@
+{
+	"name": "Game: Encased",
+	"author": "BluesKutya",
+	"version": "1.0.0",
+	"description": "Support for Encased",
+	"type": "game",
+	"bundled": false
+}
